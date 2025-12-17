@@ -22,5 +22,5 @@ Mobile Optimization 📱 - Fully responsive Power BI app
 
 [portfolio-dashboard-screenshot.png]
 
- [https://app.powerbi.com/links/wzd6_bzOJq?ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0&pbi_source=linkShare]
+ [app powerbi link[https://app.powerbi.com/links/wzd6_bzOJq?ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0&pbi_source=linkShare]
 Mobile Optimization 📱 - Fully responsive Power BI app [https://app.powerbi.com/reportEmbed?reportId=d358fbfb-feab-4551-ae70-3564baa9267b&autoAuth=true&ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0]
