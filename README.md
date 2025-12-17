@@ -20,7 +20,7 @@ Custom Reports 📋 - Tailored views for different stakeholders
 
 Mobile Optimization 📱 - Fully responsive Power BI app 
 
-
+portfolio-dashboard-screenshot.png
 
 
 Mobile Optimization 📱 - Fully responsive Power BI app https://app.powerbi.com/reportEmbed?reportId=d358fbfb-feab-4551-ae70-3564baa9267b&autoAuth=true&ctid=3b4a51c3-1f0b-46fa-b4b4-1ea1e00ec0d0
